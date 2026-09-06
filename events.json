@@ -1,27 +1,3 @@
 {
-  "events": [
-    {
-      "id": "test",
-      "name": "TEST",
-      "date": "09-10-2026",
-      "eventDateISO": "2026-10-10",
-      "time": "20:00",
-      "location": "Den Haag",
-      "category": "Latin Club",
-      "description": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
-      "flyer": "https://raw.githubusercontent.com/milomiranda/diamantina-content/main/images/1788690835166-Screenshot_2026-08-27_at_13.23.32.jpg",
-      "ticketsUrl": "https://ticketapp.shop/kbfsr",
-      "djs": [
-        {
-          "name": "negraconda",
-          "links": [
-            {
-              "url": "https://www.instagram.com/comforthousing.nl/",
-              "label": "Instagram"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "events": []
 }
