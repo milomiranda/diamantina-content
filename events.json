@@ -4,6 +4,7 @@
       "id": "test-event",
       "name": "Test Event ",
       "date": "10-10-2026",
+      "eventDateISO": "2026-10-10",
       "time": "22:00 - 06:00",
       "location": "Den Haag Amsterdam",
       "category": "Latin Club",
@@ -14,7 +15,9 @@
         {
           "name": "TEST",
           "link1": "https://www.instagram.com/negraconda/",
-          "link2": "https://soundcloud.com/negraconda"
+          "link2": "https://soundcloud.com/negraconda",
+          "link1Label": "Instagram",
+          "link2Label": "Soundcloud"
         },
         {
           "name": "TEST DJ 2",
