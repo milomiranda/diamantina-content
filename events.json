@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "id": "test-event",
+      "name": "Test Event ",
+      "date": "10-10-2026",
+      "time": "22:00 - 06:00",
+      "location": "Den Haag Amsterdam",
+      "category": "Latin Club",
+      "description": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+      "flyer": "https://raw.githubusercontent.com/milomiranda/diamantina-content/main/images/1788683772234-Screenshot_2026-08-27_at_13.24.49.png",
+      "ticketsUrl": "https://ticketapp.shop/kbfsr",
+      "djs": [
+        {
+          "name": "TEST",
+          "link1": "https://www.instagram.com/negraconda/",
+          "link2": "https://soundcloud.com/negraconda"
+        },
+        {
+          "name": "TEST DJ 2",
+          "link1": "",
+          "link2": ""
+        },
+        {
+          "name": "TEST DJ 3",
+          "link1": "",
+          "link2": ""
+        },
+        {
+          "name": "TEST DJ 4",
+          "link1": "",
+          "link2": ""
+        }
+      ]
+    }
+  ]
+}
