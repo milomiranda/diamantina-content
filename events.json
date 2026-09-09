@@ -66,6 +66,21 @@
           "label": "Regular Ticket",
           "price": "15",
           "currency": "EUR"
+        },
+        {
+          "label": "Late Bird",
+          "price": "18",
+          "currency": "EUR"
+        },
+        {
+          "label": "Early Bird",
+          "price": "10",
+          "currency": "EUR"
+        },
+        {
+          "label": "Door Ticket",
+          "price": "18",
+          "currency": "EUR"
         }
       ],
       "djs": [
