@@ -1,3 +1,39 @@
 {
-  "events": []
+  "events": [
+    {
+      "id": "test",
+      "name": "TEST",
+      "date": "09-11-2026",
+      "eventDateISO": "2026-11-11",
+      "time": "19:00 - 05:00",
+      "location": "Amsterdam",
+      "locationUrl": "",
+      "categories": [
+        "Techno",
+        "Latin Club",
+        "Minimal"
+      ],
+      "description": "TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST",
+      "flyer": "https://raw.githubusercontent.com/milomiranda/diamantina-content/main/images/1790067818441-ChatGPT_Image_Aug_27__2026__01_55_10_PM.jpg",
+      "ticketsUrl": "",
+      "ticketTiers": [
+        {
+          "label": "Early Bird Test",
+          "price": "10",
+          "currency": "EUR"
+        },
+        {
+          "label": "Regular Ticket",
+          "price": "15",
+          "currency": "EUR"
+        }
+      ],
+      "djs": [
+        {
+          "name": "TEST DJ",
+          "links": []
+        }
+      ]
+    }
+  ]
 }
